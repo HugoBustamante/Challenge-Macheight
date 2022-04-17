@@ -1,4 +1,4 @@
-# Adminlte
+# Challenge-Macheight
 
 This project was generated with Node js version 16.14.2.
 before starting with the code you must import `fetch from "node-fetch"` to make the API request, also `readline from 'readline'` and `stdin, stdout from 'node:process'`;
